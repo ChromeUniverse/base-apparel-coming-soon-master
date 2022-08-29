@@ -88,6 +88,7 @@ main {
   border: thin solid var(--dark-grayish-red);
   font-size: 0.9em;
   color: var(--dark-grayish-red);
+  background-color: transparent;
 }
 
 #input:focus-visible {
