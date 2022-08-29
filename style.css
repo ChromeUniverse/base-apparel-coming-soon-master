@@ -85,7 +85,7 @@ main {
   border-radius: 30px;
   height: 50px;
   width: calc(100% - 60px);
-  border: thin solid var(--dark-grayish-red);
+  border: thin solid var(--desaturated-red);
   font-size: 0.9em;
   color: var(--dark-grayish-red);
   background-color: transparent;
